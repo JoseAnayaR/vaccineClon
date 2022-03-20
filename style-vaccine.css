@@ -1,0 +1,294 @@
+body
+{
+    margin: 0 auto;
+    padding: 0;
+    
+    background-repeat: no-repeat;
+    background-position: 981px 0px;
+}
+#nav
+{
+    height: 175%;
+    font-size: 175%;
+    position: absolute;
+    top: 40px;
+    right: 450px;
+    font-weight: 500;    
+}
+#mainNav 
+{
+    height: 150px;
+    opacity: .9;
+}
+#button
+{
+    background-color: rgb(58, 90, 216);
+    color: white;
+    border-radius: 15%;
+    position: absolute;
+    right: 200px;
+    top: 40px;
+    width: 200px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 500;
+}
+#logo
+{
+    position: absolute;
+    left: 50px;
+    top: 60px;
+}
+#enfermera
+{
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    size: 50%;
+}
+footer
+{
+    position:absolute;
+    top: 6000px;
+    width: 100%;
+    background-color: rgb(238,243 ,255);
+}
+#principal
+{
+    margin-top: 200px;
+    margin-left: 300px;
+    width: 50%;
+}
+h1
+{
+    font-weight: bolder;
+    color: rgb(31, 62, 114);
+    font-size: 90px;
+}
+h2
+{
+    font-weight: bolder;
+    color: rgb(31, 62, 114);
+    font-size: 60px;
+}
+h4
+{
+    font-size: 200%;
+    color: rgb(31, 62, 114);
+}
+#info
+{
+    color: rgb(109, 123, 147);
+    font-weight: 450;
+    font-size: 180%;
+}
+#paloma
+{
+    float: left;
+    margin-top: 5px;
+}
+#bp
+{
+    color:rgb(31, 62, 114) ;
+    font-weight: 500;
+    width: 25%;
+    position: absolute;
+    left: 150px;
+    top: 650px;
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+#estrella
+{
+    float: left;
+    margin-top: 5px;
+}
+#sv
+{
+    color:rgb(31, 62, 114) ;
+    font-weight: 500;
+    position: absolute;
+    width: 200px;
+    left: 450px;
+    top: 650px;
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#schedule
+{
+    color:rgb(31, 62, 114) ;
+    font-weight: 500;
+    margin-left: 200px;
+    margin-top: 270px;
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#calendario
+{
+    margin-top: 30px;
+    margin-left: 275px;
+    width: 1175px;
+    height: 150px;
+    color: rgb(109, 123, 147);
+    font-weight: 450;
+    font-size: 130%;
+}
+#location
+{
+    float: left;
+    margin-top: 5px;
+}
+#date
+{
+    float: left;
+    margin-top: 5px;
+}
+#type
+{
+    float: left;
+    margin-top: 5px;
+}
+.calendar
+{
+    display:inline-flex;
+    justify-content: center;
+    align-items:right;
+    flex-wrap: wrap;
+    margin-left: 100px;
+}
+#submit
+{
+    font-size: 50px;
+    background-color: rgb(58, 90, 216);
+    margin-left: 150px;
+    margin-top: 20px;
+    width: 20%;
+    
+}
+#marcas
+{
+    position: absolute;
+    top: 1300px;
+    left: 250px;
+}
+#why
+{
+    position: absolute;
+    top: 1700px;
+    left: 250px;
+}
+.caja
+{   
+    display: inline-flex;
+    position: relative;
+    top: 1000px;
+    width: 450px;
+    height: 600px;
+    margin-left: 3px;
+    border-style: outset;
+    border-radius: 10%;
+}
+.icono
+{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 40px;
+    left: 30px;
+}
+#infocaja
+{
+    color: rgb(109, 123, 147);
+    font-weight: 450;
+    font-size: 170%;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+#preparations
+{
+    position: absolute;
+    top: 3200px;   
+}
+#vacunada
+{
+    position: absolute;
+    top: 200px;
+}
+#caja-vacunada
+{
+    position:absolute;
+    width: 800px;
+    left: 950px;
+}
+#lista
+{
+    width: 700px;
+    height: 641px;
+    position: absolute;
+    left: 950px;
+    top: 550px;
+}
+#acordeon
+{
+    font-size:35%;
+    color: rgb(31, 62, 114);
+}
+#enfermero
+{
+    position: absolute;
+    top: 4800px;
+    right: 0px;
+}
+#cajaEnfermero
+{
+    position: absolute;
+    top: 4700px;
+    left: 200px;
+    width: 40%;
+}
+#cajaContact
+{
+    position: absolute;
+    top: 5170px;
+    left: 200px;
+    width: 700px;
+    height: 650px;
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#contact
+{
+ width: 300px;
+ height: 300px;   
+ margin-left: 2%;
+ margin-right: 2%;
+ border-style: outset;
+}
+#contact-icon
+{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+#contact-text
+{
+    margin-top: 20px;
+    margin-left: 140px;
+}
+#contact-boton
+{
+    width: 270px;
+    height: 70px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
